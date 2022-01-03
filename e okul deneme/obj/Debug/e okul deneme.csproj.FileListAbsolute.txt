@@ -1,0 +1,14 @@
+C:\Users\asus\Desktop\udemy kurs\e okul deneme\e okul deneme\bin\Debug\e okul deneme.exe.config
+C:\Users\asus\Desktop\udemy kurs\e okul deneme\e okul deneme\bin\Debug\e okul deneme.exe
+C:\Users\asus\Desktop\udemy kurs\e okul deneme\e okul deneme\bin\Debug\e okul deneme.pdb
+C:\Users\asus\Desktop\udemy kurs\e okul deneme\e okul deneme\obj\Debug\e okul deneme.csprojResolveAssemblyReference.cache
+C:\Users\asus\Desktop\udemy kurs\e okul deneme\e okul deneme\obj\Debug\e_okul_deneme.Properties.Resources.resources
+C:\Users\asus\Desktop\udemy kurs\e okul deneme\e okul deneme\obj\Debug\e okul deneme.csproj.GenerateResource.Cache
+C:\Users\asus\Desktop\udemy kurs\e okul deneme\e okul deneme\obj\Debug\e okul deneme.exe
+C:\Users\asus\Desktop\udemy kurs\e okul deneme\e okul deneme\obj\Debug\e okul deneme.pdb
+C:\Users\asus\Desktop\udemy kurs\e okul deneme\e okul deneme\obj\Debug\e_okul_deneme.frmgırıs.resources
+C:\Users\asus\Desktop\udemy kurs\e okul deneme\e okul deneme\obj\Debug\e_okul_deneme.frmogretmen.resources
+C:\Users\asus\Desktop\udemy kurs\e okul deneme\e okul deneme\obj\Debug\e_okul_deneme.frm_ogrenci_detay.resources
+C:\Users\asus\Desktop\udemy kurs\c#form projeleri\e okul deneme\e okul deneme\bin\Debug\e okul deneme.exe.config
+C:\Users\asus\Desktop\udemy kurs\c#form projeleri\e okul deneme\e okul deneme\obj\Debug\e okul deneme.exe
+C:\Users\asus\Desktop\udemy kurs\c#form projeleri\e okul deneme\e okul deneme\obj\Debug\e okul deneme.pdb
